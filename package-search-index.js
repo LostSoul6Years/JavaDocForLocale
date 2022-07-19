@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.amiasya.core"},{"l":"com.amiasya.core.interfaces"},{"l":"com.amiasya.core.listener"},{"l":"com.amiasya.core.manager"}];updateSearchResults();
